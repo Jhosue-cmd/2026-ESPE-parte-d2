@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: es.upm.grise.profundizacion.file.FileTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.106 s <<< FAILURE! -- in es.upm.grise.profundizacion.file.FileTest
+es.upm.grise.profundizacion.file.FileTest.testGetCRC32WithContent -- Time elapsed: 0.010 s <<< ERROR!
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at es.upm.grise.profundizacion.file.File.getCRC32(File.java:62)
+	at es.upm.grise.profundizacion.file.FileTest.testGetCRC32WithContent(FileTest.java:95)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

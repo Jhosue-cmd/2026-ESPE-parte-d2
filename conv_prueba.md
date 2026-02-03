@@ -1,0 +1,3 @@
+Conversacion con Gemini para las pruebas unitarias.
+Usuario: Bunos dias , necesito que realices prruebas unitarias con junit , teniendo en cuenta el archivo de word con las espcificaciones y contexto, las clases file, filetype y fileUtils  ya implentadas, ademas de tambien tener las clases de las expeciones creadas.  Ahora bien las pruebas se realizara en el archi FileTest solo usando Junit por favor.  
+Gemini: 
